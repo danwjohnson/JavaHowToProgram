@@ -30,6 +30,8 @@ public class Arithmetic {
 		System.out.println("The product of the integers is: " + product);
 		System.out.println("The quotient of the integers is: " + quotient);
 		
+		input.close();
+		
 	}
 	
 }
